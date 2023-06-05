@@ -1,4 +1,3 @@
-import boto3
 import sys
 
 region = sys.argv[1]
